@@ -24,7 +24,7 @@ There are some limitations on this dataset:
 2) Live campaigns are currently ignored as they have not yet reach completion. However there are live campaigns that are successful already (i.e. pledge>goal) or close to failure already (i.e. pledge is much less than goal with limited time left), and these should be accounted for in our analysis. Further this means that the analysis is not considering the most recent data.
 3) Further to 1, we are currently not looking into different years. Instead, we group every campaign into each month. This causes an issue with seasonality as kickstarter was launched in 2009. This means that there is a tendency that we have less campaigns in the early years, and more campaigns in the later years as the community grows. Further, as there were less competitions in the beginning and more chances for “clicks”, there was a much higher success rate compared to more recent data. To better our analysis, it is best to analysis more recent campaigns outcomes than the earlier campaigns. 
 
-Possible graphs: 
+Some possible graphs for future analysis: 
 1)  A bar graph of the successful rate of parent categories
 We could be more proactive by figuring out those parent categories that are less likely to be successful. Thus, we can plan/target ahead before launching a specific category. 
 ![Picture2](https://user-images.githubusercontent.com/67567087/147795037-26435c72-627c-450d-b741-c25ddd043614.png)
