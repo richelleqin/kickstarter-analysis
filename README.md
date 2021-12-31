@@ -14,6 +14,7 @@ Based on the graph, the highest success rate of 76% occurs for a goal that is le
 ### Challenges and Difficulties Encountered
 The challenge that occurred during this analysis was on the goal amount and pledge amount currency. As there isn’t a clear indication for what currency this amount is converted to, we can only assume that all amounts listed is under the USD currency and not the currency shown in its respective columns. Further if this is not true, the conversion of currency is dependent on time, and we would have to join this to a time-based currency exchange rate table for accurate conversions. This could skew the data for the goals vs success rate analysis if the currency was not all USD. 
 ## Results
+### Conclusions
 In terms of launch date, it is concluded that the best time to launch campaigns for the highest success occurs during May and June. Further, campaigns should not be launched as we get nearer to December, as people will spend more money shopping for the holidays limiting their budget for crowdfunding. 
 More campaigns tend to be launched during May, June, July, August, and October, and seasonality does not impact cancelled campaigns. 
  
