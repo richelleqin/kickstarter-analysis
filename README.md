@@ -26,11 +26,11 @@ There are some limitations on this dataset:
 
 Some possible graphs for future analysis: 
 1) A bar graph of the successful rate of parent categories
-  - We could be more proactive by figuring out those parent categories that are less likely to be successful. Thus, we can plan/target ahead before launching a specific category. 
+    - We could be more proactive by figuring out those parent categories that are less likely to be successful. Thus, we can plan/target ahead before launching a specific category. 
 ![Picture2](https://user-images.githubusercontent.com/67567087/147795037-26435c72-627c-450d-b741-c25ddd043614.png)
 
 2) A graph of campaign duration vs outcome. 
-  - This allows us to determine if a longer campaign period amount to higher success rate.
+    - This allows us to determine if a longer campaign period amount to higher success rate.
 ![Picture1](https://user-images.githubusercontent.com/67567087/147795046-535db260-8c43-4a3a-a67b-e8eea9c505cd.png)
 
 
