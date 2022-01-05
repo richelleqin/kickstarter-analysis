@@ -34,4 +34,5 @@ Some possible graphs for future analysis:
     - This allows us to determine if a longer campaign period amount to higher success rate.
 ![Picture1](https://user-images.githubusercontent.com/67567087/147795046-535db260-8c43-4a3a-a67b-e8eea9c505cd.png)
 
-3) A campaign reward table could be possibly added to join with Kickstarter table in our analysis, as a higher reward campaign could attract more people to contribute that may lead a higher success rate.
+3) A campaign reward table could be possibly added to join with Kickstarter table in our analysis.
+    - A higher reward campaign could attract more people to contribute that may lead to a higher success rate.
