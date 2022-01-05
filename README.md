@@ -1,7 +1,7 @@
 # Kickstarting_Analysis
 ## Overview of Project
 ### Purpose
-Kickstarter is a global crowdfunding platform that enables creators to acquire the monetary needs required to launch their creations. The way the funding goals is successfully reached is based on many factors. The purpose of this analysis is to help Louise launch more successful future campaigns by determining the relationship between the campaign outcomes to the launch date, and the campaign outcomes to the goals amount. 
+Kickstarter is a global crowdfunding platform that enables creators to acquire the monetary needs required to launch their creations. The way the funding goals are successfully reached is based on many factors. The purpose of this analysis is to help Louise launch more successful future campaigns by determining the relationship between the campaign outcomes to the launch date, and the campaign outcomes to the goals amount. 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/67567087/147794923-a62d38bb-361b-4790-97f8-97a8e512a066.png)
