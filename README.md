@@ -8,7 +8,7 @@ Kickstarter is a global crowdfunding platform that enables creators to acquire t
 
 Based on the attached graph, the ratio of successful campaigns to failed campaigns seems to rise significantly during May and June, suggesting these campaigns fare better overall compared to other months. Although there is an increase in new campaign launches in summer (May to August) and October, the ratio of success to failure is overall much better in May and June (around 2 successes per failure), compared to July, August, or October. Further, it is clear that as the launch date gets closer to December, the success to failure ratio decreases. This makes sense as funds are needed for families towards the end of the year as compared to the summer. 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/67567087/147794930-06e8aa1b-c801-4f01-b705-9e2dd1994ba9.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/67567087/148289445-a7730669-3975-4886-844e-d00673a9b9f4.png)
 
 Based on the graph, the highest success rate of 76% occurs for a goal that is less than 1000, and it decreases to a point of 27% success rate for a goal of 30,000 to 34,999. If we were to ignore the rebound at 35,000 to 44,999, then we can suggest that there is a negative correlation between goal amount and success rate. This makes sense as a high goal is harder to reach and more prone to failure. The rebound could be due to many factors (different campaign rewards, currency factors such as strength of dollar, or timing and seasonality), and as there is not sufficient data to support the notion that the rebound will always occur during those goal amounts, we can safely ignore it. 
 ### Challenges and Difficulties Encountered
